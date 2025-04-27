@@ -1,0 +1,31 @@
+L31
+
+Compilor translates to machine code
+
+Once code is compiled runtime comes into play
+Runtime manages execution of the program
+	It handles tasks such as memory allocation, garbage collection, and scheduling Goroutines.
+
+Goroutines are concurrent functions in go
+
+Runtime is the engine that powers go programs, it ensures code runs smoothly and produces desired output, it also ensures that the Go programs behave consitently across different operating systems
+
+When you hit run the compilor translates code into instructions, then go runtime executes those instructions
+
+go programs require runtime to manage certain apects, related to memory management, which is garbage collection, concurrency, other features.
+
+ Garbage Collection:- 
+	Runtime is responsible for identifying and reclaiming memory that is no longer in use.
+
+Goroutines - lightweight threads managed by go runtime.
+
+Runtime Scheduler - It is the part of the runtime, it efficiently schedules Goroutines across available CPU cores, allowing for concurrent execution without developers needing to manage threads manually
+
+Go Language includes:-
+	Golang, Go Syntax, Go compilor and Go runtime, this complete package helps us make better programs, helps us make highly efficient programs
+
+Go Program Libraries:- 
+	such as those for reflection, channel operations and other language features
+
+In C or C++, we would manually allocate and free the memory 
+

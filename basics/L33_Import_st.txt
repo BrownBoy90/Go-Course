@@ -1,0 +1,9 @@
+When importing a package all commands are available but when program is compiled only useful are kept rest are discarded
+
+This optimizatio
+n is known as tree shaking
+
+Named Imports:-
+	go allows us to import packages under a specific name using import statements
+	
+	This named import enables us to refer to entities within the imported packages using a custom name

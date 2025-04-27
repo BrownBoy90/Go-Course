@@ -1,0 +1,21 @@
+package main
+// main package tells staring point
+
+import "fmt" // format: formatted input and output
+// include external packeges beyond basic Go features
+
+func main() {
+	fmt.Println("Hello World!")
+	// Go supports unicode so we can write other languages also
+}
+// When developing Real world software, efficiency in deployment becomes crucial
+// rather than repeatedly compiling our program we compile it once and store the 
+// for future executions, this process is achieved using go build command
+// Works in terminal 
+// go build name_of_file.go
+// To run it
+// ./name_of_file
+
+// L30 - Go Run
+
+// go run does not make a persistent exec file

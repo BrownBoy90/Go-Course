@@ -1,0 +1,26 @@
+// Int: Platform dependent size
+// Int 8, 16, 32, 64
+// Unsigned counterparts Uint8, 16,..
+// float: float 32(single precision), float 64(double precision)
+// COMPLEX NUMBERS: Complex64, 128 : Package to perform operation on complex numbers there is a package called math/cmplx has functions real or imag, conjugate function, absolute value functions and many more
+
+// BOOLEAN
+
+// Array
+
+// Maps
+
+// Struct
+
+// Pointer
+
+// Function
+
+// Channel
+
+// JSON
+// Text and HTML templates
+
+// Variables declared without an expliit initialization are assigned a default zero value based on their type
+
+	// Numeric types are given a value of zero by default and boolean types are defaulted to False, and pointer, slices, maps, functions and structs are initialized with nil values
