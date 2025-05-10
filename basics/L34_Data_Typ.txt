@@ -21,6 +21,6 @@
 // JSON
 // Text and HTML templates
 
-// Variables declared without an expliit initialization are assigned a default zero value based on their type
+// Variables declared without an explicit initialization are assigned a default zero value based on their type
 
 	// Numeric types are given a value of zero by default and boolean types are defaulted to False, and pointer, slices, maps, functions and structs are initialized with nil values

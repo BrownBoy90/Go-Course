@@ -21,7 +21,7 @@ func main() {
 		// Code to be executed if expression does not match any value
 	// }
 
-	// switch statement in go is (switch case break default)
+	// switch statement in other is (switch case break default)
 	// switch expression {
 	// case value1:
 		// code
